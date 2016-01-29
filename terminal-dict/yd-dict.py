@@ -11,6 +11,8 @@ import json
 import re
 import string
 
+
+//good try
 url = 'http://fanyi.youdao.com/openapi.do?keyfrom=nosrepus-yd&key=1740281583&type=data&doctype=json&version=1.1&q=' 
 
 logger = logging.getLogger(__name__)
